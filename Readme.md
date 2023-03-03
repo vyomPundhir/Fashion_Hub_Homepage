@@ -60,6 +60,10 @@
 I'm definitely more confident now in creating a webpage similar to this one.
 
 ---
+## Live link of the project added
+
+> Here is the link of the project:
+https://fashion-hub-homepage.vercel.app/
 
 ## Feedback
 
